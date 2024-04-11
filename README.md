@@ -1,4 +1,4 @@
-![André's GitHub Banner](./banner.png)
+![André's GitHub Banner](./coletor_slide.png)
 ##
 
 ### Hi there 👋
