@@ -5,21 +5,28 @@
 
 A little about me:
 
-- :brazil:   Salvador-BA, **Brazil**.
+- 🇧🇷   Salvador-BA, **Brazil**.
 - 🔭   I’m currently working with **Angular** and **Ionic Framework**.
 - 🌱   I’m currently learning things related to **Angular** and **Nest.js**.
+-  I have an app on [Google Play](https://play.google.com/store/apps/details?id=com.aasoftware.coletorfacil)
 - 📚   Self-taugh
 - ⚡   Fun fact: Solving Rubik's cubes is a great way to relax and de-stress. 🤓
 <br>
 
+### 🏆 Trophy
+
+[![André's Trophy](https://github-profile-trophy.vercel.app/?username=aasouzadev&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/aasouzadev/github-profile-trophy)
+
 
 ### 📈 Stats 
 
-[![André github stats](https://github-readme-stats.vercel.app/api?username=aasouzadev&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/aasouzadev/github-readme-stats)
+ [![André github stats](https://github-readme-stats.vercel.app/api?username=aasouzadev&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/aasouzadev/github-readme-stats) 
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasouzadev&layout=compact&langs_count=6&count_private=true&theme=gotham&hide=php)
 
+### 🗄  Streak Stats
+![aasouzadev](https://github-readme-streak-stats.herokuapp.com/?user=aasouzadev&count_private=true&include_all_commits=true&theme=gotham)
 
 ### ⚡ Skills:
 ![HTML5](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +35,7 @@ A little about me:
 ![Angular](https://img.shields.io/badge/angular-181717?style=for-the-badge&logo=Angular&logoColor=purple)
 ![Ionic](https://img.shields.io/badge/ionic-02569B?style=for-the-badge&logo=Ionic&logoColor=blue)
 ![Material UI](https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-FF0000?style=for-the-badge&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node-61DAFB?style=for-the-badge&logo=Node.js&logoColor=black)
