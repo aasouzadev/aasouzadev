@@ -18,7 +18,7 @@ A little about me:
 [![André github stats](https://github-readme-stats.vercel.app/api?username=aasouzadev&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/aasouzadev/github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasouzadev&layout=compact&langs_count=6&count_private=true&theme=gotham&hide=c%23)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasouzadev&layout=compact&langs_count=6&count_private=true&theme=gotham&hide=php)
 
 
 ### ⚡ Skills:
