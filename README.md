@@ -5,11 +5,11 @@
 
 A little about me:
 
-- :brazil:   Savador-BA, **Brazil**.
+- :brazil:   Salvador-BA, **Brazil**.
 - 🔭   I’m currently working with **Angular** and **Ionic Framework**.
 - 🌱   I’m currently learning things related to **Angular** and **Nest.js**.
 - 📚   Self-taugh
-- ⚡   Fun fact: Driving Simulators is one of my hobbies.
+- ⚡   Fun fact: Solving Rubik's cubes is a great way to relax and de-stress. 🤓
 <br>
 
 
