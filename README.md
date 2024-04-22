@@ -21,12 +21,10 @@ A little about me:
 ### 📈 Stats 
 
  [![André github stats](https://github-readme-stats.vercel.app/api?username=aasouzadev&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/aasouzadev/github-readme-stats) 
-
+![aasouzadev](https://github-readme-streak-stats.herokuapp.com/?user=aasouzadev&count_private=true&include_all_commits=true&theme=gotham)
+![aasouzadev](https://github-readme-activity-graph.vercel.app/graph?username=aasouzadev&theme=gotham&hide_border=true)
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasouzadev&layout=compact&langs_count=6&count_private=true&theme=gotham&hide=php)
-
-### 🗄  Streak Stats
-![aasouzadev](https://github-readme-streak-stats.herokuapp.com/?user=aasouzadev&count_private=true&include_all_commits=true&theme=gotham)
 
 ### ⚡ Skills:
 ![HTML5](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=white)
