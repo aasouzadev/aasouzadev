@@ -8,14 +8,16 @@ A little about me:
 - 🇧🇷   Salvador-BA, **Brazil**.
 - 🔭   I’m currently working with **Angular** and **Ionic Framework**.
 - 🌱   I’m currently learning things related to **Angular** and **Nest.js**.
--  I have an app on [Google Play](https://play.google.com/store/apps/details?id=com.aasoftware.coletorfacil)
-- 📚   Self-taugh
-- ⚡   Fun fact: Solving Rubik's cubes is a great way to relax and de-stress. 🤓
+- 📲   I have an app on [Google Play](https://play.google.com/store/apps/details?id=com.aasoftware.coletorfacil)
+- 🕵️‍♂️   Check out my [portfolio](https://andresouzaportfolio.web.app/)!
+- 🦄   I started a startup called [AASoftware](https://aasoftware.web.app/)
+- 📚   Information Systems Bachelors Degree (BIS) and Self-taugh
+- ⚡    Fun fact: Solving Rubik's cubes is a great way to relax and de-stress. 🤓
 <br>
 
 ### 🏆 Trophy
 
-[![André's Trophy](https://github-profile-trophy.vercel.app/?username=aasouzadev&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/aasouzadev/github-profile-trophy)
+[![André's Trophy](https://github-profile-trophy.vercel.app/?username=aasouzadev&no-bg=false&theme=gruvbox&no-frame=true&rank=AAA,AA,A,B&column=5)](https://github.com/aasouzadev/)
 
 
 ### 📈 Stats 
