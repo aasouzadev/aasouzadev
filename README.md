@@ -53,6 +53,8 @@ A little about me:
 
 ### 📫 Social Media:
 
+[![Portfólio](https://img.shields.io/badge/André%20Souza%20Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=black)
+](https://andresouzaportfolio.web.app/)
 [![Telegram](https://img.shields.io/badge/André%20Souza-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ](https://t.me/aasouzadev)
 [![Instagram](https://img.shields.io/badge/aasouza8-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
